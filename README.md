@@ -1,10 +1,4 @@
 # Source-SnapChat
 Source for SnapChat
 
-.
-
-.
-
-By The Legend 0f Khaled                                                                                                      
-
-@i5aaaald
+[![Run on Repl.it](https://repl.it/badge/github/Ravens0610/Source-SnapChat)](https://repl.it/github/Ravens0610/Source-SnapChat)
